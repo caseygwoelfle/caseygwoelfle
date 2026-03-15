@@ -1,7 +1,7 @@
 ## Hey, I'm Casey 👋
 
 Network & Systems Administrator by day, Data Science + Applied AI student by night.  
-Currently working in the Trojan Network Operations Center supporting Army INSCOM.  
+Currently working as a Network % System Administrator supporting the Army.  
 Active Air National Guard — Cyber Transport Systems.
 
 ---
